@@ -1,3 +1,4 @@
+#import random
 import time
 from url_thread import UrlThread
 import urllib
